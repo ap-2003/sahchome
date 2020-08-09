@@ -11,7 +11,7 @@ body{
 #section1{
 	/*https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_parallax */
 	 /* The image used */
-  background-image: url("../images/parallaxstock.jpg");
+  background-image: url("parallaxstock.jpg");
 
   /* Set a specific height */
   /*min-height: 500px;*/ 
